@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.titre-contact {
+    color: blue;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
